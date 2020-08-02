@@ -10,18 +10,20 @@
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="150dp"
         android:src="@drawable/ic_profile" />
 
     <TextView
         android:id="@+id/txtProfile"
-        android:layout_width="wrap_content"
+        android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_below="@id/imgProfile"
+        android:background="@color/colorPrimaryDark"
         android:layout_centerHorizontal="true"
         android:padding="10dp"
-        android:text="Kartikey Sharma"
-        android:textColor="@color/colorPrimaryDark"
+        android:text="@string/kartikey_sharma"
+        android:textAlignment="center"
+        android:textColor="@color/colorWhite"
         android:textSize="20sp"
         android:textStyle="bold" />
 
@@ -29,10 +31,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/txtProfile"
+        android:layout_marginTop="20dp"
         android:layout_centerHorizontal="true"
-        android:text="19 years old"
-        android:textColor="@color/colorPrimary"
-
-        android:textSize="15sp" />
+        android:text="@string/it_s_levioosa_not_leviosaa"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="20sp"
+        android:textStyle="bold" />
 
 </RelativeLayout>

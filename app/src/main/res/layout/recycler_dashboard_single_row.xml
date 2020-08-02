@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="#ffffff">
@@ -33,21 +34,16 @@
             android:id="@+id/txtBookRating"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
             android:layout_marginStart="50dp"
-            android:layout_marginTop="40dp"
-            android:layout_toLeftOf="@+id/imgStar"
+            android:layout_marginTop="80dp"
+            android:drawableStart="@drawable/starratin"
+            android:drawablePadding="4dp"
+            android:paddingEnd="20dp"
             android:text="@string/_4_5"
             android:textColor="#999900"
-            android:textSize="20sp" />
-
-        <ImageView
-            android:id="@+id/imgStar"
-            android:layout_width="20dp"
-            android:layout_height="20dp"
-            android:layout_alignParentRight="true"
-            android:layout_marginTop="45dp"
-            android:layout_marginRight="20dp"
-            android:src="@drawable/star_rating" />
+            android:textSize="20sp"
+            tools:ignore="RtlSymmetry" />
 
         <TextView
             android:id="@+id/txtBookAuthor"

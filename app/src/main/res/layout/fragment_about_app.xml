@@ -7,10 +7,12 @@
 
     <TextView
         android:id="@+id/txtAboutApp"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="400dp"
         android:padding="10dp"
-        android:text="@string/about_app_fragment"
-        android:textSize="18sp" />
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/sample_text"
+        android:textAlignment="center"
+        android:textSize="16sp" />
 
 </RelativeLayout>
