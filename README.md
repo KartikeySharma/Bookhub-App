@@ -15,6 +15,8 @@ This app was made as my second project during my Internshala Training.
 <h3> Navigation Drawer</h3>
 <img src="https://github.com/KartikeySharma/Bookhub-App/blob/master/BookHub_Screenshots/2.Navigation_Drawer.jpeg" width="250" height="450"/>
 
+<h3> Sorted List according to Rating</h3>
+<img src="https://github.com/KartikeySharma/Bookhub-App/blob/master/BookHub_Screenshots/6.Book_List_Sorted_by_Rating.jpeg" width="250" height="450"/>
 
 <h3> Favourite Books Page</h3>
 <img src="https://github.com/KartikeySharma/Bookhub-App/blob/master/BookHub_Screenshots/3.Favourites.jpeg" width="250" height="450"/>
