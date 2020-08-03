@@ -13,7 +13,7 @@ This app was made as my second project during my Internshala Training.
 
 
 <h3> Navigation Drawer</h3>
-<img src="https://github.com/KartikeySharma/Bookhub-App/blob/master/BookHub_Screenshots/1.Book_Main_Menu.jpeg" width="250" height="450"/>
+<img src="https://github.com/KartikeySharma/Bookhub-App/blob/master/BookHub_Screenshots/2.Navigation_Drawer.jpeg" width="250" height="450"/>
 
 
 <h3> Favourite Books Page</h3>
